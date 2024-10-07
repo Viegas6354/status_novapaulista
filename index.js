@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Jogando Higienópolis Roleplay","Higienópolis Network"];
+const statusMessages = ["Nova Paulista Roleplay","Since 2024"];
 
 
 let currentIndex = 0;
